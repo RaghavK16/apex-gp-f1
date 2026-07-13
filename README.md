@@ -2,7 +2,7 @@
 
 A complete, realistic Formula 1 racing game that runs in your web browser — seen **from behind your car, like a real race driver**, with the road rushing toward the horizon. One file, no installation, works fully offline. Qualify, start from your earned grid slot, and race 6 AI drivers over 5 laps around a Monza-inspired circuit.
 
-![Driver's view: chasing the pack into the Variante Ascari chicane](docs/gameplay.png)
+![Driver's view: chasing the pack into the Variante Ascari chicane](gameplay.png)
 
 ---
 
@@ -44,7 +44,7 @@ The game starts in the **driver's view** — a chase camera just behind your car
 
 Press **V** at any time to switch to the classic **top-down** view (handy for learning the track layout), and **V** again to jump back into the cockpit.
 
-![Top-down view of the same race](docs/topdown.png)
+![Top-down view of the same race](topdown.png)
 
 > 🏁 **Driving tip for the driver's view:** use the **corner-name boards** and **red-and-white curbs** as braking markers, and glance at the **minimap** to know what's coming. Brake when you see the chicane's curbs snaking ahead — if you wait until the corner fills the screen, you're in the gravel.
 
